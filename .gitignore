@@ -1,0 +1,7 @@
+*.pyc
+config/*.conf
+*.log
+test.py
+.DS_Store
+venv
+sftp-config.json

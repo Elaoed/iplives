@@ -5,7 +5,7 @@ DB_HOST = "127.0.0.1"
 DB_PORT = 3306
 DB_DBNAME = "iplive"
 DB_USER = "root"
-DB_PASSWORD = "renxp123"
+DB_PASSWORD = "xxxxxx"
 
 
 # mysql charset

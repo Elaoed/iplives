@@ -1,10 +1,6 @@
 conf = {
     "tokens": {
-        "115.238.45.242": "123",
-        "127.0.0.1": "123",
-        "43.247.89.4": "123",
-        "116.211.151.53": "123",
-        "115.159.192.237": "123"
+        "1.1.1.1": "123",
     },
     "scan_strategy": {
         "60": 1800,
@@ -23,7 +19,7 @@ enviroment = {
         'mysql': {
             'host': "127.0.0.1",
             'user': "root",
-            'passwd': "infosec",
+            'passwd': "xxxxxx"",
             'port': 3306,
             'db': "iplive"
         },
@@ -34,7 +30,7 @@ enviroment = {
         'mysql': {
             'host': "127.0.0.1",
             'user': "root",
-            'passwd': "infosec",
+            'passwd': "xxxxxx",
             'port': 3306,
             'db': "iplive"
         },
@@ -45,7 +41,7 @@ enviroment = {
         'mysql': {
             'host': "127.0.0.1",
             'user': "root",
-            'passwd': "renxp123",
+            'passwd': "xxxxxx",
             'port': 3306,
             'db': "iplive"
         },
