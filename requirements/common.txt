@@ -1,0 +1,7 @@
+certifi==2017.4.17
+DBUtils==1.2
+Flask==0.12.2
+gevent==1.2.2
+redis==2.10.5
+requests==2.18.1
+pymysql==0.7.11
