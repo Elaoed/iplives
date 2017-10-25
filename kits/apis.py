@@ -45,7 +45,7 @@ def api_create(params: dict) -> None:
 
 def api_update(params: dict):
 
-    pass
+    raise NotImplementedError()
 
 def api_delete(group_id: int, app_name: str) -> None:
 
