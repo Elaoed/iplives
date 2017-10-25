@@ -14,12 +14,11 @@ Our project running on python3.6.2 and higher version
 
 
 ### Feature
--
 1. For superuser. when a new node is add, it will dynamiclly synchronize their data in	to new node. 
 
 
 ### Deploy
--
+---
 > git clone http://git.newdun.com/renxiaopeng/iplives<br>
 > cd iplives <br>
 > python3 -m venv venv <br>
