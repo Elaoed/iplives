@@ -1,8 +1,7 @@
 # iplive(server) Deploy 
 
 
-### Introduction
----
+## Introduction
 
 Iplive is a **multiple node** detect target ip distribute sysetm.  
 Using multiple node to get the real state of target ip  
@@ -10,16 +9,15 @@ Our project running on python3.6.2 and higher version
 
 
 
-### Usage
+## Usage
 1. make sure time of your server and nodes is correct(use ntpdate time.apple.com to sync time with apple)
 
 
-### Feature
+## Feature
 1. For superuser. when a new node is add, it will dynamiclly synchronize their data in	to new node. 
 
 
-### Deploy
----
+## Deploy
 
 > git clone http://git.newdun.com/renxiaopeng/iplives<br>
 > cd iplives <br>
