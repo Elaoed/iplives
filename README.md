@@ -1,10 +1,11 @@
 # iplive(server) Deploy 
--
-<br>
+
+
 ### Introduction
--
-Iplive is a **multiple node** detect target ip distribute sysetm.<br>
-Using multiple node to get the real state of target ip<br>
+---
+
+Iplive is a **multiple node** detect target ip distribute sysetm.  
+Using multiple node to get the real state of target ip  
 Our project running on python3.6.2 and higher version
 
 
@@ -19,6 +20,7 @@ Our project running on python3.6.2 and higher version
 
 ### Deploy
 ---
+
 > git clone http://git.newdun.com/renxiaopeng/iplives<br>
 > cd iplives <br>
 > python3 -m venv venv <br>
